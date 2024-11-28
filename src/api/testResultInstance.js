@@ -1,8 +1,10 @@
 import axios from "axios";
 
+const API_URL = "https://soft-calico-pair.glitch.me/testResults";
+
 // testResult 전용 axios 인스턴스 생성
 const testResultInstance = axios.create({
-  baseURL: "https://sustaining-fearless-medicine.glitch.me/testResults", // JSON Server 엔드포인트
+  baseURL: API_URL, // JSON Server 엔드포인트
   timeout: 5000, // 요청 제한 시간 (5초)
 });
 
