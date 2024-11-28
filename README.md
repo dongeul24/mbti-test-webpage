@@ -119,7 +119,7 @@
 
 ### ✔️ Deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![mbti](https://mbti-test-webpage-2x1el6k7z-dongeuls-projects.vercel.app/)
+[엠비티아이 웹사이트](https://mbti-test-webpage-2x1el6k7z-dongeuls-projects.vercel.app/)
 
 
 ## 프로젝트 파일 구조
