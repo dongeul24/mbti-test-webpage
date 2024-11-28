@@ -119,7 +119,7 @@
 
 ### ✔️ Deploy
 
-![Vercel](mbti-test-webpage.vercel.app) 
+![Vercel]([mbti-test-webpage.vercel.app](https://mbti-test-webpage-2x1el6k7z-dongeuls-projects.vercel.app/)) 
 
 
 ## 프로젝트 파일 구조
