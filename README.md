@@ -1,4 +1,5 @@
-# MBTI 테스트 사이트 [엠비티아이 웹사이트](https://mbti-test-webpage-2x1el6k7z-dongeuls-projects.vercel.app/)
+# MBTI 테스트 사이트 
+[엠비티아이 웹사이트](https://mbti-test-webpage-2x1el6k7z-dongeuls-projects.vercel.app/)
 
 ![MBTI 사이트:데스크탑](https://github.com/user-attachments/assets/c7e25662-49b9-49c4-ae31-fa2402bd9713)
 ![MBTI 사이트:테블릿](https://github.com/user-attachments/assets/f7fdf0f7-94a8-4e74-97a7-62024a54441d)
