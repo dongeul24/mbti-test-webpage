@@ -2,7 +2,7 @@ import axios from "axios";
 
 // testResult 전용 axios 인스턴스 생성
 const testResultInstance = axios.create({
-  baseURL: "http://localhost:5000/testResults", // JSON Server 엔드포인트
+  baseURL: "https://sustaining-fearless-medicine.glitch.me", // JSON Server 엔드포인트
   timeout: 5000, // 요청 제한 시간 (5초)
 });
 
